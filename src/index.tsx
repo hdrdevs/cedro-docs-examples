@@ -29,6 +29,9 @@ window.app = (() => {
                 <Route src="/examples/text-buttons/" />
                 <Route src="/examples/contained-buttons/" />
                 <Route src="/examples/outlined-buttons/" />
+                <Route src="/examples/icons-sizes/" />
+                <Route src="/examples/icons-colors/" />
+                <Route src="/examples/icons-variants/" />
             </Routes>
         </Application>
     );
