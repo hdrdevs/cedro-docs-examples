@@ -1,7 +1,8 @@
 import "./style.css";
-import { createApplication } from "@cedro/core/application.builder";
+
 import { Application, Routes, Route, Widgets } from "@cedro/core/application.core";
 import { WContainer } from "@cedro/ui/container.ui";
+import { createApplication } from "@cedro/core/application.builder";
 
 window.app = (() => {
     return createApplication(
