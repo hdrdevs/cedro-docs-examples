@@ -36,6 +36,8 @@ window.app = (() => {
                 <Route src="/examples/checkboxes/" />
                 <Route src="/examples/radios/" />
                 <Route src="/examples/containers/" />
+                <Route src="/examples/hpanels/" />
+                <Route src="/examples/vpanels/" />
             </Routes>
         </Application>
     );
